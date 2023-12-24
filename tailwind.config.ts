@@ -33,6 +33,32 @@ const config = {
         "accordion-up": "accordion-up 0.2s ease-out",
       },
     },
+    colors: {
+      white: "#fff",
+      primary: "#BFAFF2",
+      secondary: "#F8D57E",
+      background: "#2B2B2B",
+      grey: "#ffffff66",
+      dark: "#2B2B2B"
+    },
+    borderRadius: {
+     normal: "0.9375rem",
+     large: "1.25rem",
+     full: "100%"
+    },
+    lineHeight: {
+      large: "5.625rem",
+      normal: "2rem",
+      medium: "2.5rem",
+    },
+    fontSize: {
+      normal: "1.125rem",
+      large: "3.75rem",
+      medium: "2.5rem",
+    },
+    gap: {
+      large: "3.75rem"
+    }
   },
   plugins: [require("tailwindcss-animate")],
 } satisfies Config
