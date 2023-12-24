@@ -7,10 +7,10 @@ function TestimonialSection() {
     <section className="bg-primary px-8 md:px-[5rem] py-[5.19rem] rounded-large mt-16">
       <div>
         <p className="font-[600] text-[1.5rem]">
-          “Wallet is a great product! All of my most important information is
-          there - credit cards, transit cards, boarding passes, tickets, and
-          more. And I don't need to worry because it's all in one place!
-          thanks!”
+          &apos;&apos;Wallet is a great product! All of my most important
+          information is there - credit cards, transit cards, boarding passes,
+          tickets, and more. And I don&apos;t need to worry because it&apos;s all in
+          one place! thanks!&apos;&apos;
         </p>
       </div>
       <div className="flex gap-4 items-center gap-[1.25rem] mt-[3.13rem]">
