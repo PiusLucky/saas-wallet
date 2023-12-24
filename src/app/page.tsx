@@ -9,7 +9,7 @@ import WalletOverviewSection from "@/components/sections/WalletOverviewSection";
 
 export default function Home() {
   return (
-    <main className="bg-background px-[3.44rem]">
+    <main className="bg-background px-4 md:px-[3.44rem]">
       <section className="pt-[1.56rem]">
         <NavBar />
       </section>
