@@ -19,7 +19,7 @@ Figma: https://www.figma.com/file/0AXJeBgWtD1YFf2z95Yxlx/SaaS-Landing-Page-Templ
 To follow along the tutorial. Change to the starter branch  after cloning the repo.
 Then install the npm packages & run
 ```bash
-npm install && npm run
+npm install && npm run dev
 ```
 
 
