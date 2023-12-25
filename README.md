@@ -4,6 +4,8 @@ A SaaS landing page built with Nextjs 14, Typescript, Tailwind and Shadcn
 # ☁️ Deployed link
 https://saas-wallet.vercel.app/
 
+Youtube: https://youtu.be/TB5lqE8k3Gs
+
 Figma: https://www.figma.com/file/0AXJeBgWtD1YFf2z95Yxlx/SaaS-Landing-Page-Template---Landing-Page-Template-ready-to-export-to-HTML---Landing-page-for-SaaS-(Community)-(Copy)?node-id=0%3A1&mode=dev
 
 # 💻 Desktop View
